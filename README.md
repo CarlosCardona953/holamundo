@@ -4,4 +4,6 @@
 
 Primer repositorio de Mét. Computacionales
 
-* Elemento de lista
+* Elemento de lista 1
+* Elemento de lista 2
+* Elemento de lista 3
